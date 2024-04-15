@@ -11,8 +11,6 @@ Features
 
 *   **Real-Time Weather Data**: Displays current weather conditions based on user-selected locations.
 *   **Location Selection**: Users can choose from a list of states and cities, making the app versatile and user-specific.
-*   **Intuitive User Interface**: Clean and simple JavaFX UI that makes navigation and operation straightforward.
-*   **Error Handling**: Robust error handling to manage API connectivity issues and user input errors effectively.
 
 Installation
 ------------
