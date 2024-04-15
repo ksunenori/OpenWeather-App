@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="app.Controller">
+        <!-- State ComboBox -->
+        <ComboBox fx:id="stateComboBox" onAction="#handleStateSelection" AnchorPane.topAnchor="20" AnchorPane.leftAnchor="50" AnchorPane.rightAnchor="50"/>
+        <!-- City ComboBox -->
+        <ComboBox fx:id="cityComboBox" AnchorPane.topAnchor="50" AnchorPane.leftAnchor="50" AnchorPane.rightAnchor="50"/>
+        <!-- Retrieve Weather Button -->
+        <Button text="Get Weather" onAction="#handleLoadWeatherAction" AnchorPane.topAnchor="80" AnchorPane.leftAnchor="50" AnchorPane.rightAnchor="50"/>
+        <!-- Weather Result Label -->
+        <Label fx:id="resultLabel" AnchorPane.topAnchor="110" AnchorPane.leftAnchor="50" AnchorPane.rightAnchor="50"/>
+</AnchorPane>
+
