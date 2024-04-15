@@ -21,7 +21,7 @@ Installation
 
 *   Java 11 or higher
 *   JavaFX SDK
-*   API Key from [OpenWeather]([url](https://openweathermap.org/)
+*   API Key from [OpenWeather](https://openweathermap.org/)
 
 Usage
 -----
